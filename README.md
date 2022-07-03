@@ -2,7 +2,7 @@
 
 [![dis](https://discord.c99.nl/widget/theme-3/723328085662892042.png )](https://discord.com/users/723328085662892042/)
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,discord)]([https://artembay.tk](https://discord.com/users/723328085662892042/))
+[![My Skills](https://skillicons.dev/icons?i=py,discord)]([https://artembay.tk](https://discord.com/users/723328085662892042/))
 
 My github statistic:
 
